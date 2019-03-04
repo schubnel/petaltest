@@ -187,7 +187,7 @@ def multiCens(img, n_centroids_to_keep=2, verbose=False, write_fits=True, no_ots
 		params = fitgaussian(data)
 		fwhm=abs(2.355*max(params[4],params[5]))
 		if fwhm < .5:
-			print(" fit failed - trying again with smaller fitbox")
+			if verbose: print(" fit failed - trying again with smaller fitbox")
 			sbox=nbox-1
 			data = img[py-sbox:py+sbox,px-sbox:px+sbox]
 			params = fitgaussian(data)
