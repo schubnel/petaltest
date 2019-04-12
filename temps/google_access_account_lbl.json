@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "lbnl-205117",
+  "private_key_id": "f2b85dec8cc1e0f0d97ccba7cebc1228fc7c93a3",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEugIBADANBgkqhkiG9w0BAQEFAASCBKQwggSgAgEAAoIBAQDFADeuMe4H3HOI\nKwRwNIR/xaw9nvWz6qMhmdlAit39P1wHntGGAMG5AIv66wKOC5VOfYB6tOxPcBjB\nv7PFEjwO/OdFQXlPT1GEPGIFj3mxYdRsCV2x/NHyWgPYSfs8bMkm1vnTVhkkqARv\nObcRe7PIWIX9boZ7T4qU45P2w15ychIQTbysVnvMYQ57IaHUWOdBxKgKWXr16+qF\nrPzMUC3w/fiqutJbcZ9XxcmkWO7YJq3GYb0d1C1RE3gDoAhwf5OExur9VPjqSCql\n2kwLKV6mvTEtJeilo1JayUbMu/1VeAeZqu07TEyGqJ4M4mEu0v4MnZ9TRw+/rWvk\ndVRl4jpDAgMBAAECgf8DpHTakHgriuftR0S8rDvpD8+n/q7Qk7k9OyOE69ku5paZ\n0bxSRn4bQudTq0j6aG+ejG86GdoAas3oPqMlVv3FSSwOkzhmtncgtoWh+xYz3BKq\n/cWble72exn9f2CuVu4t/NyhpUs4HgVMTW+Mjd8abszYOBDNA6t7N2SnGkr6Fvdf\ns52X2UWWiv7VUJdBI+xcwu2YYBKgPGqH0YT3LDOUBLpz6xYC86Ri9rJlWDfGx61B\nF2/IZftTS0RSIq2W/UIlvy39nPzC3MrCtV/bTcgqMr6SSxiUu0Dw7dScN72aZ5Sh\nyXPx9nFq58dO2JqyK8Qc/8SeTfZOU3lSaWzMqCkCgYEA9WOdNM126OQz+s4ALJcs\nri5WpkUEmSRvHwmBfv5bYzvQj29m81hjCfdfZBchpl0OCcxy38M37Hgh/gAETpNz\nYNBw3ft2hsBQiKWlxGgwy3WHubZfgAu78hU+FWRxXl/3JHsaLWUzyK6b9TlvtQTB\nf62xoonVafcyushozdF0/a8CgYEAzYT1m/vYdBKk9IMcjIkCKLS01T3v2oq0Ndum\n/N6cb552+TUzIBpBw/sg+5IvU/XNpbq+rhCakLDKO+o+CZ+2qYGTrwl3EjIXAhs4\nC1ME6Z50EIpdzSUJjtMZWL/Sr9uenKIf/TL/6d5x01677JeTi9fKvovUDcdQgz8T\nAI//pa0Cf3ycGTi3HasmNz8lXPFH02igH2BPrAYYelVIfnn+sGmz9jTgXWc1exWU\niNxK4suYdYiESdFXUQ7D8n8JgyZjujNvpeET0RycjEjX1VXnkt++zy1/bv+W9dn4\n743tc6R5Fwdve9uRiLpf8NKWWCOURq6PhaUEWVt2LEyteIsL0l0CgYEArBvzn2w5\n6YKPl6CQ8PPv1ez3HzkeO1M69Xt8DXnTYfo/whUWOoUinCAbj/HtJo/LZ0XLV3Pa\nLN+QjLput5qD2tIDvmrbx2YhNIdc2Mbub0JeClgFk723kl8gc904cEMoQh3XUjA6\ndjzt78f+8nRBgLP3OrlYnS1UNIVGwYrV2YUCgYEArOgTv7psZz4nu0QyDjOJuVC6\nTP4VER+VVl0RsXClAVm2TeIAvLM7+wKH+mrOmDC0a9ZYzq3MICzRTkK1S/lrOXlW\n0pLEk1IvILIHJrfhSJ9DadPHpfx3VRSYn3d7RibiaFwPnwFv7xKus3Pu09vPvJWQ\nwaDNCNFHNGvQVCiTRiA=\n-----END PRIVATE KEY-----\n",
+  "client_email": "lbnl-desi-zhangkai@lbnl-205117.iam.gserviceaccount.com",
+  "client_id": "110083575903442109169",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/lbnl-desi-zhangkai%40lbnl-205117.iam.gserviceaccount.com"
+}
